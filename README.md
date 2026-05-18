@@ -109,7 +109,7 @@ Extensive iterative R&D engineering loops delivered highly reliable metrics duri
 
 **Installation & Deployment**
 1. Clone this repository to your local directory:
-   git clone [https://github.com/fadhaelizzil/sipetir-sleep-monitoring-iot.git](https://github.com/fadhaelizzil/sipetir-sleep-monitoring-iot.git)
+   git clone [https://github.com/fadhaelizzil/sleep-monitoring-iot.git](https://github.com/fadhaelizzil/sleep-monitoring-iot.git)
 2. Open /src/sipetir_main.ino within your Arduino IDE.
 3. Navigate to the credential lines and alter placeholder details with your dedicated values:
    * char auth[] = "YOUR_BLYNK_AUTH_TOKEN";
