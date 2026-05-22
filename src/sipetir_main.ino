@@ -28,11 +28,6 @@ const char OVERLOAD_MESSAGE[] = u8"⚠️ DANGER: Mattress overload detected! Po
 
 BlynkTimer timer;
 
-// =========================
-// Jam aktif sistem
-// WIB = UTC+7
-// Aktif: 23:00 - 05:00
-// =========================
 constexpr long WIB_UTC_OFFSET_SEC = 7L * 3600L;
 constexpr int ACTIVE_START_HOUR = 23;
 constexpr int ACTIVE_END_HOUR   = 5;
